@@ -16,4 +16,8 @@ Here are some features and how this app looks :
 ## Notes
 Change `[Your Name]` and `[Your Focus]` on the screen directly. Therefore it will be saved into your browser's local storage and won't disappear even if you refresh the page!
 
+## Reference
+
+- [Dynamic Landing Page | JavaScript by Traversy Media](https://youtu.be/fSTQzlprGLI)
+
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/dynamic-welcome-page)](https://github.com/kevinadhiguna)
