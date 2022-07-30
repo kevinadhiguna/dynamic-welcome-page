@@ -1,7 +1,11 @@
 # Dynamic Welcome Page
+
 Dynamic Welcome Page is a welcome page in which you can place your name and today's main focus.
 
+<br />
+
 ## Demo
+
 Here are some features and how this app looks :
 
 ### Morning
@@ -16,8 +20,12 @@ Here are some features and how this app looks :
 ## Notes
 Change `[Your Name]` and `[Your Focus]` on the screen directly. Therefore it will be saved into your browser's local storage and won't disappear even if you refresh the page!
 
+<br />
+
 ## Reference
 
 - [Dynamic Landing Page | JavaScript by Traversy Media](https://youtu.be/fSTQzlprGLI)
+
+<br />
 
 [![Visits Badge](https://badges.pufler.dev/visits/kevinadhiguna/dynamic-welcome-page)](https://github.com/kevinadhiguna)
